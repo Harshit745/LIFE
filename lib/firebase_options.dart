@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA3EnxmAMeCkDGkk-CdFg53IThglpKOXdg',
+    apiKey: 'const',
     appId: '1:52071196214:web:b321696227967abcb85a97',
     messagingSenderId: '52071196214',
     projectId: 'lifeos-63a2c',
